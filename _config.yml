@@ -11,3 +11,4 @@ collections:
   kieisy:
     title: Кейсы
     output: true
+    permalink: kieisy
